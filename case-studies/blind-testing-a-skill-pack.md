@@ -66,7 +66,7 @@ First, the **not-grafted list** is explicit: several of the candidate's principl
 
 Second, actually running the material surfaced **seven internal craft flaws** that reading had not — among them: a role definition that permits a hybrid answer while its execution section forces a single choice; hardcoded next-step metadata that contradicts the material's own "stop the chain on a no-build ruling" instruction; a test-case quota arithmetically too small to cover its own required category list; artifact templates that pre-fill a "confirmed" status, hollowing out the confirmation they claim to enforce; and an instruction to define retry limits sitting next to a guardrail that forbids inventing retry budgets. These flaws are the standing argument for the court's graft policy: **transplant the concept, never the text.** One of the flaws was silently corrected in transit — the quota that couldn't cover its categories was raised until it could — and the correction is recorded in the verdict.
 
-A standalone entry skill was queued as a follow-up build; it has since been built and will ship in a later wave of this kit (the entry-vs-loop skill discipline it obeys: [mechanisms/maintenance.md](../mechanisms/maintenance.md) §8).
+A standalone entry skill was queued as a follow-up build; it has since been built and will ship in a later wave of this kit (the entry-vs-loop skill discipline it obeys: [mechanisms/maintenance.md](../archive/v1/mechanisms/maintenance.md) §8).
 
 ## The price
 

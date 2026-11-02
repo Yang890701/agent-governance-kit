@@ -1,0 +1,8 @@
+{
+  "name": "agent-governance-kit",
+  "description": "Skills that have to earn their place: every skill ships with an A/B measurement against no skill at all.",
+  "author": { "name": "Yang890701" },
+  "repository": "https://github.com/Yang890701/agent-governance-kit",
+  "license": "MIT",
+  "skills": "./skills/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-governance-kit",
+  "owner": { "name": "Yang890701" },
+  "plugins": [
+    {
+      "name": "agent-governance-kit",
+      "source": "./",
+      "description": "Skills that have to earn their place: every skill ships with an A/B measurement."
+    }
+  ]
+}
